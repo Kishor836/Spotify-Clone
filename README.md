@@ -22,7 +22,7 @@ _Add a few screenshots here if you have them!_
 
 ## 🚀 Getting Started
 
-1. Clone the repository:
+1. Clone the repository :
    ```bash
    git clone https://github.com/Kishor836/Spotify-Clone.git
 
