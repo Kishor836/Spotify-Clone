@@ -18,7 +18,7 @@ This is a responsive clone of Spotify's user interface built using only **HTML**
 - HTML5
 - CSS3 (Flexbox & Grid)
 - Google Fonts
-- Font Awesome (optional, for icons)
+- Font Awesome (for icons)
 
 ## 🚀 Getting Started
 
