@@ -11,7 +11,7 @@ This is a responsive clone of Spotify's user interface built using only **HTML**
 
 ## 📸 Screenshots
 
-![Desktop view](D:\Class ques WebD(sigma 5.0)\SpotifyClone\Spotify-Clone\assets\Sample.png)
+![Desktop View](assets/Sample.png)
 
 ## 📁 Technologies Used
 
